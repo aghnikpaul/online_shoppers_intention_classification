@@ -165,8 +165,10 @@ xgboost
 ```
 
 ## Author
+#### **Aghnik Paul** 
+Data Analyst & ML Consultant
 
-Freelance data analyst focused on data analysis, machine learning and business analysis.
 
-- Email: aghnik.stat@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aghnikpaul
+- E-mail: aghnik.stat@gmail.com
+- linkedin: https://linkedin.com/in/aghnikpaul
+- Portfolio: https://aghnikpaul.page.gd
