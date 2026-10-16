@@ -51,7 +51,7 @@ Dataset facts: 12,205 sessions, 73 features after encoding, only 15.6% buyers, h
 
 ### Class balance
 
-![Class balance](01_class_balance.png)
+![Class balance](images/01_class_balance.png)
 
 ### Conversion rate by month
 
