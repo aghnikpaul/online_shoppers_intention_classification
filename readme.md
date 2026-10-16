@@ -1,4 +1,4 @@
-# Online Shoppers Purchasing Intention: Classification with a Stacking Ensemble
+# Classification on Online Shoppers Purchasing Intention
 
 Predicting whether an e-commerce browsing session ends in a purchase, using three classifiers and a stacking ensemble, in a single reproducible Python script.
 
