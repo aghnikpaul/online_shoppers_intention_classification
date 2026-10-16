@@ -55,45 +55,45 @@ Dataset facts: 12,205 sessions, 73 features after encoding, only 15.6% buyers, h
 
 ### Conversion rate by month
 
-![Conversion rate by month](images/02_conversion_by_month.png)
+![Conversion rate by month](../images/02_conversion_by_month.png)
 
 ### Conversion rate by visitor type
 
-![Conversion rate by visitor type](03_conversion_by_visitor_type.png)
+![Conversion rate by visitor type](../images/03_conversion_by_visitor_type.png)
 
 ### Visitor type x month
 
-![Visitor type x month](04_conversion_month_visitor_heatmap.png)
+![Visitor type x month](../images/04_conversion_month_visitor_heatmap.png)
 
 ### PageValues by outcome
 
-![PageValues by outcome](05_pagevalues_by_outcome.png)
+![PageValues by outcome](../images/05_pagevalues_by_outcome.png)
 
 ### Raw skewed distributions
 
-![Raw skewed distributions](06_skewed_distributions_raw.png)
+![Raw skewed distributions](../images/06_skewed_distributions_raw.png)
 
 ### Correlation heatmap
 
-![Correlation heatmap](07_correlation_heatmap.png)
+![Correlation heatmap](../images/07_correlation_heatmap.png)
 
 ### Distributions after log transform
 
-![Distributions after log transform](08_skewed_distributions_log.png)
+![Distributions after log transform](../images/08_skewed_distributions_log.png)
 
 ### Confusion matrices
 
-![Confusion matrices](09_confusion_matrices.png)
+![Confusion matrices](../images/09_confusion_matrices.png)
 
 ### ROC curves
 
-![ROC curves](10_roc_curves.png)
+![ROC curves](../images/10_roc_curves.png)
 
 ### Model comparison
 
-![Model comparison](11_model_comparison.png)
+![Model comparison](../images/11_model_comparison.png)
 
 ### Feature importance
 
-![Feature importance](12_feature_importance.png)
+![Feature importance](../images/12_feature_importance.png)
 
