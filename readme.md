@@ -2,7 +2,7 @@
 
 Predicting whether an e-commerce browsing session ends in a purchase, using three classifiers and a stacking ensemble, in a single reproducible Python script.
 
-![Conversion rate by month](results/02_conversion_by_month.png)
+![Conversion rate by month](images/02_conversion_by_month.png)
 
 ## Table of Contents
 
@@ -89,9 +89,9 @@ Because accuracy is misleading here (always predicting "no purchase" would score
 - The three models agree on `PageValues` and `ExitRates` as key drivers, but they disagree on the rest, which is why comparing them is useful.
 - The Logistic Regression coefficients for some `Browser` and `OperatingSystems` codes are large, but these categories are rare, so they are probably noise rather than a real effect.
 
-![Feature importance](results/12_feature_importance.png)
+![Feature importance](images/12_feature_importance.png)
 
-![Correlation heatmap](results/07_correlation_heatmap.png)
+![Correlation heatmap](images/07_correlation_heatmap.png)
 
 ## Model Results
 
@@ -110,9 +110,9 @@ Evaluated on the 2,441-session test set (382 buyers); the positive class is "pur
 - **Logistic Regression** is a solid baseline. It is close to the others on recall and AUC, which shows that the preprocessing (log transform, scaling) does most of the work.
 - **No model wins on every metric.** The right choice depends on cost: if missing a buyer is worse than wasting a discount, prefer the high-recall models; if outreach is expensive, prefer Random Forest.
 
-![Confusion matrices](results/09_confusion_matrices.png)
+![Confusion matrices](images/09_confusion_matrices.png)
 
-![Model comparison](results/11_model_comparison.png)
+![Model comparison](images/11_model_comparison.png)
 
 ## Why a Stacking Ensemble?
 
@@ -168,5 +168,5 @@ xgboost
 
 Freelance data analyst focused on data analysis, machine learning and business analysis.
 
-- Portfolio: https://aghnikpaul.page.gd
+- Email: aghnik.stat@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aghnikpaul
